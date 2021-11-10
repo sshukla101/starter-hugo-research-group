@@ -68,4 +68,4 @@ user_groups:
 - Researchers
 ---
 
-Saurabh Shukla is a postdoc at University of Washington and is an expert in high-resolution imaging of intracellular proteins
+I am a postdoc in University of Washington, Seattle. I employ a suite of high-resolution imaging techniques to enable nanoscale biological disovery.
